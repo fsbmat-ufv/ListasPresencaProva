@@ -1,5 +1,19 @@
 # Object file
 *.o
-
 # Ada Library Information
 *.ali
+.Rproj.user
+Matriculados.csv
+df6_PVA279.xlsx
+df1_PVA153.docx
+df1_PVA153.xlsx
+df2_PVA165.docx
+df2_PVA165.xlsx
+df3_PVA179.docx
+df3_PVA179.xlsx
+df4_PVA201.docx
+df4_PVA201.xlsx
+df5_PVA277.docx
+df5_PVA277.xlsx
+df6_PVA279.docx
+ListasPresencaProva.Rproj
